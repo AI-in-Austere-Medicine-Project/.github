@@ -2,7 +2,7 @@
 
 Open-source clinical decision support for clinicians working without reliable power, internet or physician backup. Guideline-grounded, clinician-signed, and small enough to run offline on hardware you can carry.
 
-> **Research prototype.** Not for patient care. Simulated scenarios only. Enter no patient information.
+> **Research prototype.** Not validated for clinical use. Not for patient care. Simulated scenarios only. Enter no patient information (PHI).
 
 ### Projects
 
